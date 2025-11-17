@@ -4,13 +4,14 @@ MCFNet: A Multi-scale Cross-modal Fusion Network for RGB-D Salient Object Detect
 # Environments
 
 ```bash
-conda create -n magnet python=3.9.18
+conda create -n magnet python=3.10.8
 conda activate magnet
-conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
-conda install -c conda-forge opencv-python==4.7.0
+conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.14.1 cudatoolkit=11.6 -c pytorch -c conda-forge
+conda install -c conda-forge opencv-python
 pip install timm==0.6.5
 conda install -c conda-forge tqdm
 conda install yacs
+
 ```
 
 # Data Preparation
