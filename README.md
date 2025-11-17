@@ -43,4 +43,4 @@ We provide the saliency maps of DUT, LFSD, NJU2K, NLPR, SIP, STERE datasets.
 
 # Trained Models
 
-- RGB-D [baidu](https://pan.baidu.com/s/1RPMA5Z3liMoUlG0AWuGeRA?pwd=5aqf) / [Google drive](https://drive.google.com/file/d/1vb2Vcbz9bCjvaSwoRZjIi39ae5Ei1GVs/view?usp=sharing) <br>
+- RGB-D [Google drive].(https://drive.google.com/file/d/1RmPd27BkjRbTtZdFijSOIFa4KS8h4sWs/view?usp=sharing). <br>
