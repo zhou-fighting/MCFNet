@@ -38,7 +38,7 @@ Note that the depth maps of the raw data above are foreground is white.
 
 We provide the saliency maps of DUT, LFSD, NJU2K, NLPR, SIP, STERE datasets.
 
-- RGB-D [Google drive].https://drive.google.com/drive/folders/1xusyfPTMF2i-qTYHL7EpqT01R_xzfsSt?usp=sharing<br>
+- RGB-D [Google drive].(https://drive.google.com/drive/folders/1xusyfPTMF2i-qTYHL7EpqT01R_xzfsSt?usp=sharing).<br>
 
 
 # Trained Models
