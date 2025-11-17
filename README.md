@@ -15,14 +15,14 @@ conda install yacs
 
 # Data Preparation
 
-- Download the RGB-D raw data from [baidu](https://pan.baidu.com/s/10Y90OXUFoW8yAeRmr5LFnA?pwd=exwj) / [Google drive](https://drive.google.com/file/d/19HXwGJCtz0QdEDsEbH7cJqTBfD-CEXxX/view?usp=sharing) <br>
+- Download the RGB-D raw data from [Google drive](https://drive.google.com/drive/folders/1-WqJBL74t1mvu62f29iwEHzsLTCbahQh?usp=sharing) <br>
 
 Note that the depth maps of the raw data above are foreground is white.
 
 # Training & Testing
 
 - Train the MCFNet:
-    1. download the pretrained PVT pth from [baidu](https://pan.baidu.com/s/11bNtCS7HyjnB7Lf3RIbpFg?pwd=bxiw) / [Google drive](https://drive.google.com/file/d/1eNhQwUHmfjR-vVGY38D_dFYUOqD_pw-H/view?usp=sharing), and put it under  `ckps/smt/`.
+    1. download the pretrained PVT pth from [Google drive](https://drive.google.com/file/d/1HQVhygEP64vwFQRf4LnF7yyrZfBYfCHy/view?usp=sharing).
     2. modify the `rgb_root` `depth_root` `gt_root` in `train_Net.py` according to your own data path.
     3. run `python train_Net.py`
 - Test the MCFNet:
@@ -38,7 +38,7 @@ Note that the depth maps of the raw data above are foreground is white.
 
 We provide the saliency maps of DUT, LFSD, NJU2K, NLPR, SIP, STERE datasets.
 
-- RGB-D <br>
+- RGB-D [Google drive].https://drive.google.com/drive/folders/1xusyfPTMF2i-qTYHL7EpqT01R_xzfsSt?usp=sharing<br>
 
 
 # Trained Models
